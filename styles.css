@@ -1,0 +1,49 @@
+/* Fuente personalizada */
+body {
+  font-family: "JetBrains Mono", monospace;
+  background-color: #f8d5a0;
+}
+
+/* Contenedor principal */
+.container {
+  margin-top: 50px;
+}
+
+/* Título principal */
+h1 {
+  margin-bottom: 20px;
+}
+
+/* Imagen del logo */
+.logo {
+  display: block;
+  margin: 0 auto 20px auto;
+  max-width: 100px; /* Ajusta el tamaño según sea necesario */
+}
+
+/* Botones */
+#ordenarAsc {
+  background-color: #ff8c00; /* Naranja */
+  border-color: #ff8c00;
+}
+
+#ordenarDesc {
+  background-color: #ffa500; /* Naranja clarito */
+  border-color: #ffa500;
+}
+#limpiar {
+  background-color: #fba368; /* Gris claro */
+  border-color: #fba368;
+}
+/* Resultado */
+.result {
+  margin-top: 30px;
+}
+
+.result h2 {
+  margin-bottom: 20px;
+}
+
+.result p {
+  font-weight: bold;
+}
